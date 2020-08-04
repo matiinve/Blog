@@ -1,5 +1,5 @@
 body{
-	background: src="images/backbody4.jpg";
+	background: url(images/backbody4.jpg);
 	background-size: cover;
 	background-position: center;
 	margin: 0px;
@@ -22,7 +22,7 @@ h1{
 
 #banner {
 		text-align: center;
-		background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), src="images/manos2.jpg";
+		background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(images/manos2.jpg);
 		background-size: cover;
 		background-position: center;
 		padding: 100px;
