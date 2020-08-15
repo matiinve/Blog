@@ -22,7 +22,7 @@ h1{
 
 #banner {
 		text-align: center;
-		background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(images/manos2.jpg);
+		background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(images/manos2.jpg);
 		background-size: cover;
 		background-position: center;
 		padding: 100px;
@@ -117,3 +117,6 @@ h1{
 .footer .fa-heart {
   color: #D23333;
 }
+.avatar-large {
+  width: 95px;
+  border-radius: 50%;

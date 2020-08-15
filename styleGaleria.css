@@ -1,0 +1,90 @@
+/* galeria.html */
+
+body{
+	background: url(images/backbody4.jpg);
+	background-size: cover;
+	background-position: center;
+	margin: 0px;
+	color: black;
+	font-size: 15px;
+	font-family: Courier;
+}
+
+h1{
+	font-family: Courier;
+	color: white;
+	font-weight: lighter;
+	font-size: 20px;	
+}
+
+.navbar {
+	background-color: #03305ddb;
+	padding: 2rem 2rem;
+}
+
+.avatar-large {
+  width: 95px;
+  border-radius: 50%;
+}
+
+#titulo {
+	width: inherit;
+	border-width: medium;
+	border-color: white;
+	border-radius: 8px;
+	margin: 20px;
+	background-color: #03305ddb;
+
+}
+
+#titulo h1{ 
+	color: white;
+	text-align: center;
+}
+
+#galeriaTitulo {
+	background-size: inherit;
+	background-position: center;
+
+	height: 10rem;
+}
+
+.container {
+	max-width: 100%;
+	margin-right: 35px;
+	margin-left: 35px;
+	padding: 15px;
+			
+}
+.row{
+	max-width: 95%;
+}
+
+.card {
+	width: auto;
+	margin: 18px;
+	color: black;
+	
+
+}
+
+.card:hover {
+	transform: scale(1.04);
+	transition: 1s;
+	border: 0px;
+	text-decoration: none;
+}
+
+.card a{
+	color: black;
+}
+
+.card a:hover{
+	text-decoration: none;
+}
+
+
+
+
+
+
